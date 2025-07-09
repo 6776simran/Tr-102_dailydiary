@@ -438,3 +438,22 @@ Fundamental algorithm for prediction
 - 🎯 **Error calculation** for performance evaluation
 
 ---
+# Day 10 - SmartFusion Training 
+**Date:** 06.07.2025
+K-Means Clustering & ML 🔍
+
+## 1. 🎯 K-Means Clustering
+Unsupervised learning algorithm for grouping data
+
+## 2. 🤖 Machine Learning
+Continued exploration of ML concepts
+
+## 3. 📊 Clustering Algorithm
+- 🔄 **Iterative process**
+- 🎯 **Centroid-based**
+- 📈 **Data grouping**
+
+## 4. 🔧 Algorithm Steps
+Process of finding optimal clusters in data
+
+---
