@@ -29,7 +29,7 @@
 - Reflections on concepts learned.
 ---
 
-### 🤖 Applications in Real Life (AI/ML/IoT):
+### 🤖 
 - Application 1  
 - Application 2  
 
