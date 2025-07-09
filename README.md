@@ -153,5 +153,3 @@ Guru Nanak Dev Engineering College
 - 💻 Practice using **Tinkercad Simulator**  
 
 ---
-
-✍️ *Signed & Reviewed*
