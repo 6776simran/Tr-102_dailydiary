@@ -37,19 +37,11 @@
 
 ---
 
-### 💡 Doubts/Questions:
-- Question 1  
-- Question 2  
 
----
+### ✅ AUTHOR:
+Simran
+Guru Nanak Dev Engineering College
 
-### ✅ Key Takeaways / Summary:
-Write a short 3–5 line summary of today’s learnings and experience.
 
----
-
-### 🧭 Plan for Tomorrow / Suggestions:
-- [ ] Task 1  
-- [ ] Task 2  
 
 ---
