@@ -364,3 +364,39 @@ Standardize data ranges for equal feature contribution
 - 🔍 **Introduction to EDA** (Exploratory Data Analysis)
 
 ---
+# Day 8 -SmartFusion Training  
+**Date:** 04.07.2025
+
+Real-time IoT Dashboard 🌐
+
+## 📊 Dashboard Features
+- 🌡️ **Temperature** monitoring
+- 💧 **Humidity** tracking  
+- 💨 **Pressure** sensors
+- ☀️ **Light intensity** readings
+
+## 🔄 Real-time Updates
+- ⏱️ **2-second intervals**
+- 📈 **Live charts** with Chart.js
+- 🎯 **20 data points** per chart
+- 📱 **Mobile responsive**
+
+## 🎨 Design Elements
+- ✨ **Glassmorphism** effects
+- 🌈 **Gradient backgrounds**
+- 🔵 **Pulsing indicators**
+- 🎭 **Hover animations**
+
+## 🛠️ Tech Stack
+- 📄 **HTML5**
+- 🎨 **CSS3** (backdrop-filter, gradients)
+- ⚡ **JavaScript** (real-time updates)
+- 📊 **Chart.js** library
+
+## 🎯 Learning Objectives
+- 🌐 **IoT data visualization**
+- ⏰ **Real-time dashboards**
+- 📊 **Interactive charts**
+- 🎨 **Modern UI design**
+
+---
