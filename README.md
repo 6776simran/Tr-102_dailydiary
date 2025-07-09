@@ -81,3 +81,62 @@ Guru Nanak Dev Engineering College
 - ☂️ Collect information on **basic needs to make a smart umbrella**
 
 ---
+
+**Day 2**  
+**Date:** 26/06/2025  
+
+---
+
+## 📌 Topics Covered
+
+### 1. Architecture of IoT  
+- Cisco Seven Layered Diagram  
+- IoT Architecture Overview  
+
+### 2. Sensors  
+- Introduction to Sensors  
+- Examples of Common Sensors  
+
+### 3. Smart Sensors  
+- Introduction  
+- Real-life Examples  
+
+### 4. Microcontroller Architecture  
+
+### 5. Actuators  
+- Introduction  
+- Examples  
+
+### 6. Smart Actuators  
+
+### 7. Smart Labels (Sensor + Actuator Pairs)  
+
+### 8. Robotic Systems  
+- Sensors in Robotic Systems  
+- Actuators in Robotic Systems  
+- Smart Applications  
+
+### 9. Set-Top Box  
+- Video, Audio, and Reception Functions  
+
+### 10. Raspberry Pi  
+- Connection Setup  
+- PIR Motion Sensor Interface  
+
+---
+
+## 🧪 Hands-on Activity
+
+### 11. DHT11 Sensor  
+- Arduino Code Overview  
+
+---
+
+## 📝 Homework
+
+- Difference Between Arduino Boards, NodeMCU, and Raspberry Pi  
+- Practice on **Tinkercad/Proteus/Online Simulator**  
+
+---
+
+> 🔁 _Continued hands-on with sensors and embedded systems planned for Day 3._
