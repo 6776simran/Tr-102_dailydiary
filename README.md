@@ -327,3 +327,40 @@ Standardize data ranges for equal feature contribution
 - 🔢 **NumPy**
 
 ---
+# Day 7 -SmartFusion Training  📊
+
+**Date:** 03.07.2025
+
+## 1. 📈 Data Visualization
+
+### 📊 Representation using Matplotlib:
+- 📉 **Line graph**
+- 📊 **Bar graph**
+- 🔵 **Scatter plot**
+- 📊 **Histogram**
+- 🥧 **Pie chart**
+
+### 🌊 Seaborn:
+- 📉 **Line graph**
+- 📊 **Bar graph**
+- 🔵 **Scatter plot**
+- 📊 **Histogram**
+- 📦 **Box plot**
+- 🔥 **Heatmap**
+
+## 2. ⏰ Real-time Data
+
+### 📚 Libraries:
+- 📊 **Matplotlib**
+- 🎲 **Random**
+- ⏰ **Time**
+
+### 🛠️ Functions:
+- 📊 **ion** - Interactive mode
+- 🎨 **plt.subplot** - Multiple plots
+
+## 📝 Homework
+- 📤 **Upload real-time data** (fake data from tips)
+- 🔍 **Introduction to EDA** (Exploratory Data Analysis)
+
+---
