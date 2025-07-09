@@ -82,61 +82,76 @@ Guru Nanak Dev Engineering College
 
 ---
 
-**Day 2**  
-**Date:** 26/06/2025  
+# 📘 Day 2 - SmartFusion Training  
+**📅 Date:** 26/06/2025  
 
 ---
 
-## 📌 Topics Covered
-
-### 1. Architecture of IoT  
-- Cisco Seven Layered Diagram  
-- IoT Architecture Overview  
-
-### 2. Sensors  
-- Introduction to Sensors  
-- Examples of Common Sensors  
-
-### 3. Smart Sensors  
-- Introduction  
-- Real-life Examples  
-
-### 4. Microcontroller Architecture  
-
-### 5. Actuators  
-- Introduction  
-- Examples  
-
-### 6. Smart Actuators  
-
-### 7. Smart Labels (Sensor + Actuator Pairs)  
-
-### 8. Robotic Systems  
-- Sensors in Robotic Systems  
-- Actuators in Robotic Systems  
-- Smart Applications  
-
-### 9. Set-Top Box  
-- Video, Audio, and Reception Functions  
-
-### 10. Raspberry Pi  
-- Connection Setup  
-- PIR Motion Sensor Interface  
+## ① Architecture of IoT  
+- 📊 Cisco Seven-Layered Diagram  
+- 🧱 IoT Architecture  
 
 ---
 
-## 🧪 Hands-on Activity
-
-### 11. DHT11 Sensor  
-- Arduino Code Overview  
-
----
-
-## 📝 Homework
-
-- Difference Between Arduino Boards, NodeMCU, and Raspberry Pi  
-- Practice on **Tinkercad/Proteus/Online Simulator**  
+## ② Sensors  
+- 🔍 Introduction to Sensors  
+- 💡 Examples  
 
 ---
 
-> 🔁 _Continued hands-on with sensors and embedded systems planned for Day 3._
+## ③ Smart Sensors  
+- 🧠 Introduction & Examples  
+
+---
+
+## ④ Microcontroller Architecture  
+
+---
+
+## ⑤ Actuators  
+- ⚙️ Introduction & Examples  
+
+---
+
+## ⑥ Smart Actuators  
+
+---
+
+## ⑦ Smart Labels, Sensors, Actuators Pairs  
+
+---
+
+## ⑧ Robotic System  
+- 🧩 Sensors in Robotic System  
+- 🔧 Actuators in Robotic System  
+- 📱 Smart Applications  
+
+---
+
+## ⑨ Set Top Box  
+- 📺 Video, Audio, Reception  
+
+---
+
+## ⑩ Raspberry Pi  
+- 🔌 Connection and PIR Motion Sensor  
+
+---
+
+## ⑪ DHT11 Sensor  
+- 🌡️ Overview  
+
+---
+
+## ⑫ Arduino Code Overview  
+
+---
+
+## 📌 Homework  
+- 📋 Difference between Arduino Boards  
+- 🧠 Research on NodeMCU, Raspberry Pi  
+- 💻 Practice using **Tinkercad Simulator**  
+
+---
+
+✍️ *Signed & Reviewed*
