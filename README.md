@@ -153,3 +153,100 @@ Guru Nanak Dev Engineering College
 - 💻 Practice using **Tinkercad Simulator**  
 
 ---
+# 📘 Day-3: SmartFusion Notes  
+📅 Date: 27/06/2025
+
+---
+
+## 🖥️ 1. Traditional Computing Components
+
+---
+
+## 🌐 2. Distributed Computing  
+- 🔁 Distributed System  
+- 📦 Distributed Application  
+- ❓ Why Distribution  
+- 🎯 Goals  
+
+---
+
+## 🏗️ 3. Multitiered Architecture
+
+---
+
+## 🤝 4. Cluster Computing  
+- 🧮 Grid Computing  
+- 💡 Utility Computing  
+
+---
+
+## ☁️ 5. Cloud Computing
+
+---
+
+## 📈 6. Trends in Distributed Computing
+
+---
+
+## 🧰 7. Virtualization
+
+---
+
+## 🧩 8. Types of Virtualization
+
+---
+
+## 🗂️ 9. The Cloud Definition Framework  
+- 🚀 Deployment Model  
+- 🛠️ Service Model  
+- 🔍 Characteristics  
+
+---
+
+## ☁️💼 10. Cloud Computing Service Models  
+- 🧑‍💻 **SaaS** (Software as a Service)  
+- 🏗️ **PaaS** (Platform as a Service)  
+- 🖥️ **IaaS** (Infrastructure as a Service)  
+
+---
+
+## ☁️🌍 11. Cloud Computing Deployment Models  
+- 🌐 Public  
+- 🔐 Private  
+- ♻️ Hybrid  
+- 👥 Community  
+
+---
+
+## 🔗 12. Cloud Computing for IoT  
+- 📘 Introduction  
+- ✅ Benefits  
+
+---
+
+## 🧱 13. IoT Cloud Architecture
+
+---
+
+## ⚙️ 14. IoT Management
+
+---
+
+## ☁️📡 15. IoT Cloud Platforms  
+- 🔧 CSM  
+- 📶 Xively *(formerly CSM(7))*  
+- 💾 Nimbits [8]  
+- 🌐 ThingSpeak  
+
+---
+
+## 📝 ⭐ Homework  
+- 📊 Difference: Google App Engine vs AWS vs Microsoft Azure  
+- 📱 IoT Apps  
+- 🔑 API Key  
+- 🧾 XML & JSON  
+
+---
+
+✍️ Signed: **R**  
+📅 Date: 27/
