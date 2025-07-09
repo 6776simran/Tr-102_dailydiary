@@ -400,3 +400,41 @@ Real-time IoT Dashboard 🌐
 - 🎨 **Modern UI design**
 
 ---
+# Day 9 - Smartfusion Training  
+
+**Date:** 05.07.2025
+
+Machine Learning Fundamentals 🤖
+
+## 1. 🧠 Machine Learning
+Introduction to ML concepts and applications
+
+## 2. 🔄 Traditional Programming vs Machine Learning
+Key differences in approach and methodology
+
+## 3. 🆚 Difference between AI, ML, DL
+- 🤖 **AI** - Artificial Intelligence
+- 🧠 **ML** - Machine Learning  
+- 🔗 **DL** - Deep Learning
+
+## 4. 📱 Application of Machine Learning
+Real-world use cases and implementations
+
+## 5. 📊 Dataset
+Understanding data structures and formats
+
+## 6. 🔄 Training Phase & Testing Phase
+- 🏋️ **Training** - Model learns from data
+- 🧪 **Testing** - Model evaluation and validation
+
+## 7. 📚 Types of Learning
+Different approaches to machine learning
+
+## 8. 📈 Linear Regression Algorithm
+Fundamental algorithm for prediction
+
+## 9. 📊 Root Mean Square Error
+- 📏 **RMSE** - Model accuracy measurement
+- 🎯 **Error calculation** for performance evaluation
+
+---
