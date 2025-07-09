@@ -43,3 +43,43 @@ Simran
 Guru Nanak Dev Engineering College
 
 ---
+# 📘 Day 1 - SmartFusion Training  
+**📅 Date:** 25/06/2025  
+
+---
+
+## ① Introduction to Smart Fusion  
+- 🔄 How it works  
+- 💡 Examples  
+- ✅ Benefits  
+
+---
+
+## ② Introduction to IoT  
+- ❓ Why IoT  
+- 🔟 Top 10 Strategic Technologies and Trends (Gartner)  
+- 🎯 Benefits of IoT  
+- 📱 Application of IoT  
+
+---
+
+## ③ Arduino Boards (UNO)  
+- ⚙️ Components of Arduino Board  
+
+---
+
+## ④ Machine Learning (ML)  
+- 🌟 Features of ML  
+- 📌 Need of ML  
+- 📚 Types of ML  
+
+---
+
+## 📌 Homework  
+- 📄 Prepare detailed information on **Arduino Board**  
+- 🍓 Introduction to **Raspberry Pi**  
+- ☂️ Collect information on **basic needs to make a smart umbrella**
+
+---
+
+✍️ *Signed & Reviewed*
