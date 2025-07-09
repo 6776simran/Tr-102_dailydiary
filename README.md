@@ -81,5 +81,3 @@ Guru Nanak Dev Engineering College
 - ☂️ Collect information on **basic needs to make a smart umbrella**
 
 ---
-
-✍️ *Signed & Reviewed*
