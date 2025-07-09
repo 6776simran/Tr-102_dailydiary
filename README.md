@@ -153,7 +153,7 @@ Guru Nanak Dev Engineering College
 - 💻 Practice using **Tinkercad Simulator**  
 
 ---
-# 📘 Day-3: SmartFusion Notes  
+# 📘 Day-3: SmartFusion Training 
 📅 Date: 27/06/2025
 
 ---
@@ -247,6 +247,53 @@ Guru Nanak Dev Engineering College
 - 🧾 XML & JSON  
 
 ---
+# 📗 Day-4: SmartFusion Training  
+📅 Date: 30/06/2025
 
-✍️ Signed: **R**  
-📅 Date: 27/
+---
+
+## 🔌 1. Wokwi Circuits: ON/OFF LED using Arduino UNO  
+- 🛠️ Simulated LED circuit using **Arduino UNO** on [Wokwi](https://wokwi.com)  
+- 💡 Learn basic digital output control  
+- 🧪 Useful for prototyping before hardware deployment  
+
+---
+
+## 🌐 2. Sign In to ThingSpeak  
+- 🔐 Created/logged into [ThingSpeak](https://thingspeak.com)  
+- 📊 Ready to send and visualize IoT sensor data  
+- 📡 Platform for real-time IoT data analysis  
+
+---
+
+## 🤖 3. Project Discussion (AI, ML, IoT)  
+- 💡 Brainstormed ideas for projects involving:  
+  - 🧠 **Artificial Intelligence (AI)**  
+  - 📈 **Machine Learning (ML)**  
+  - 🌍 **Internet of Things (IoT)**  
+- 🔄 Focus on integration and real- world applications  
+
+---
+
+
+# 📘 Day-5: SmartFusion Training 
+📅 Date: 01/07/2025
+
+---
+
+## 🔦 1. Detection of Light Using Photoresistor  
+- 📍 Used **Photoresistor (LDR)** to detect light intensity  
+- 💡 Changes in light levels affect resistance  
+- 🧪 Analog input to Arduino for real-time detection  
+- 📊 Can be used in projects like automatic streetlights, light meters, etc.
+
+---
+
+## 🔁 2. Interfacing Servo Motor with Arduino  
+- ⚙️ Connected **Servo Motor** to **Arduino UNO**  
+- 🧭 Controlled motor angle via PWM signals  
+- 🔄 Used potentiometer/code to rotate between 0° to 180°  
+- 🤖 Application in robotics, automation, and control systems
+
+---
+
