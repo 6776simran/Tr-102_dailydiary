@@ -29,9 +29,11 @@
 - Reflections on concepts learned.
 ---
 
-### 🤖 
-- Application 1  
-- Application 2  
+### 🤖 TECHNOLOGIES USED:
+-Python
+- Arduino, Raspberry Pi, NodeMCU (for IoT)  
+-wowki simulator,thingspeak 
+- Any other relevant tools  
 
 ---
 
