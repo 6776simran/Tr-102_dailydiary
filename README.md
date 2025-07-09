@@ -296,4 +296,34 @@ Guru Nanak Dev Engineering College
 - 🤖 Application in robotics, automation, and control systems
 
 ---
+# Day 6 - SmartFusion Training  📊
 
+**Date:** 02.07.2025
+
+## 1. 🔄 Data Preprocessing in ML
+Transforming raw data for machine learning models
+
+## 2. 📥 Data Collection
+- 📄 **CSV files** 
+- 🌐 **Online datasets** (Kaggle)
+- 📈 **Impact on model performance**
+
+## 3. 🧹 Data Cleaning
+- ❌ **Incomplete data**
+- ⚠️ **Inaccurate data** 
+- 🔄 **Inconsistent data**
+
+## 4. 🕳️ Missing Values
+- 🗑️ **Remove** missing values
+- 📊 **Fill** using mean/median
+- 🔍 **Detect** missing patterns
+
+## 5. ⚖️ Scaling & Normalization
+Standardize data ranges for equal feature contribution
+
+## 6. 🐍 Python Libraries
+- 🤖 **Scikit-learn**
+- 🐼 **Pandas**
+- 🔢 **NumPy**
+
+---
