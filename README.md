@@ -42,6 +42,4 @@
 Simran
 Guru Nanak Dev Engineering College
 
-
-
 ---
